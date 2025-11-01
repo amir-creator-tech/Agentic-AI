@@ -1,1 +1,1 @@
-# Agentic-AI
+web: gunicorn main:app
